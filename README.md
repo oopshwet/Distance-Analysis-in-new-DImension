@@ -55,7 +55,3 @@ Please refer to `Lab1_writeup.pdf` for a detailed report including:
 - This phenomenon illustrates why distance-based methods (like k-NN) become less effective in high dimensions.
 
 ---
-
-## 🛡️ Note
-
-This code is part of a class assignment. **Do not share it or use it for unauthorized purposes.**
